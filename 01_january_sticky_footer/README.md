@@ -1,4 +1,6 @@
-# Challenge <img src="https://img.shields.io/badge/January-Sticky Footer-green">
+# Challenge <img src="https://img.shields.io/badge/January-Sticky Footer-green?style=flat-square">
+
+<img src="https://img.shields.io/badge/version-v1.0.0-green?style=flat-square">
 
 In this month's challenge, we will be creating a stationary footer. When you scroll up, the footer is revealed, below the page content:
 
